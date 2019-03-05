@@ -1,2 +1,2 @@
 # Assignment3
-![image](https://github.com/ZhengYaWei1992/ZWProgressView/blob/master/Untitled3.gif)
+![image](https://github.com/126769984/Assignment3/blob/master/display.gif)
